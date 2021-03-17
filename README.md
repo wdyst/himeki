@@ -51,9 +51,9 @@ Configurable permissions: https://himeki.kado.to/inviteB
 * * *
 Voting at https://himeki.kado.to/vote helps increase Himeki's popularity and rankings!
 
- **Problem?**
+ **Contact**
 * * *
-You can either fill out an [issue report here](https://github.com/kadoto/himeki/issues)
+You can either fill out an [issue report here](https://github.com/kadoto/himeki/issues) for feature requests, bug reports or other stuff
 or you can contact the creator on [discord here](https://discord.com/users/251479856406069248)
 * * *
 Current Version: v1.6.1
