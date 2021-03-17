@@ -1,12 +1,16 @@
 # Himeki･⁺｡･*✧
-Everyone's favorite discord bot! 
 
-![alt text](https://i.imgur.com/U2ueJ3Y.jpg "Cute right?")
+Everyone's favorite discord bot!
+<img src="https://i.imgur.com/U2ueJ3Y.jpg" title="Cute right?" class="jop-noMdConv" width="131" height="204" style="float: right;">
+
 # About
-Initally made just to have some cute gif and action commands, Himeki turned into a little passion project done for fun. 
 
-_Project Started: 06/06/2018_
+Initially made just to have some cute gif and action commands, Himeki turned into a little passion project done for fun.
+
+*Project Started: 06/06/2018*
+
 # Command List
+
 **FUN**
 
 `say`, `rate`, `destroyavatar`, `rr`, `ss`, `catfact`, `dogfact`, `owo`, `8ball`, `spoiler`, `meme`, `thanos`, `catpic`, `dogpic`, `clown`, `cgf`, `lenny`, `lennyd`, `catgirl`
@@ -39,18 +43,21 @@ _Project Started: 06/06/2018_
 
 `add`, `sub`, `mul`, `div`
 
- # **Bot Invite**
+# **Bot Invite**
+
 Administrator permissions: https://himeki.kado.to/inviteA
 
 Configurable permissions: https://himeki.kado.to/inviteB
 
 # **Voting**
+
 Voting at https://himeki.kado.to/vote helps increase Himeki's popularity and rankings!
 
- # **Problem?**
+# **Problem?**
+
 You can either fill out an [issue report here](https://github.com/kadoto/himeki/issues)
 or you can contact the creator on [discord here](https://discord.com/users/251479856406069248)
 
 Current Version: v1.6.1
 
-_Written in javascript + made with love_
+*Written in javascript + made with love*
