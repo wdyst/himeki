@@ -44,10 +44,10 @@ Administrator permissions: https://himeki.kado.to/inviteA
 
 Configurable permissions: https://himeki.kado.to/inviteB
 
- # **Support Server Invite**
+ # **Problem?**
+You can either fill out an [issue report here](https://github.com/kadoto/himeki/issues)
+or you can contact the creator on [discord here](https://discord.com/users/251479856406069248)
 
-https://himeki.kado.to/support
-
-Current Version: v.1.6
+Current Version: v1.6
 
 _Written in javascript + made with love_
