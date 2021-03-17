@@ -4,23 +4,23 @@
 A discord "chat" bot that was created just because! She has light moderation features, lots of cute Re:ACTION commands, random utility features and a whole lot of love and personality!
 
 *Project Started: 06/06/2018*
-* * *
-### Bot Invite
+
+### Server Invite
 * * *
 Administrator permissions: https://himeki.kado.to/inviteA
 
 Configurable permissions: https://himeki.kado.to/inviteB
-
-### Voting
-* * *
-Voting at https://himeki.kado.to/vote helps increase Himeki's popularity and rankings!
 
 ### Contact
 * * *
 You can either fill out an [issue report here](https://github.com/kadoto/himeki/issues) for feature requests, bug reports or other stuff
 
 or you can contact the dev on [discord here](https://discord.com/users/251479856406069248)
+
+ ### Voting
 * * *
+Voting at https://himeki.kado.to/vote helps increase Himeki's popularity and rankings!
+
 ## **Command List -**
 
 **FUN**
