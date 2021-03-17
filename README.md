@@ -1,9 +1,11 @@
 # **Himeki･⁺｡･✧**
 
  <img align="right" width="150" height="240" src="https://i.imgur.com/U2ueJ3Y.jpg">
-A discord "chat" bot that was created just because! She has light moderation features, lots of cute Re:ACTION commands, random utility features and a whole lot of love and personality! Voting at https://himeki.kado.to/vote helps increase make Himeki more popular!
+A discord "chat" bot that was created just because! She has light moderation features, lots of cute Re:ACTION commands, random utility features and a whole lot of love and personality! 
 
-Bot Server Invites:
+Voting at https://himeki.kado.to/vote helps increase make Himeki more popular!
+
+### Bot Server Invites:
 
 > Administrator permissions: https://himeki.kado.to/inviteA
 
