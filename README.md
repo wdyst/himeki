@@ -6,12 +6,10 @@ A discord "chat" bot that was created just because! She has light moderation fea
 Voting at https://himeki.kado.to/vote helps increase make Himeki more popular!
 
 ### Bot Server Invites:
-
+* * *
 > Administrator permissions: https://himeki.kado.to/inviteA
 
 > Configurable permissions: https://himeki.kado.to/inviteB
-
-*Project Started: 06/06/2018*
 
 ### Contact
 * * *
@@ -55,6 +53,8 @@ or you can contact the dev on [discord here](https://discord.com/users/251479856
 `add`, `sub`, `mul`, `div`
 
 Current Version: v1.6.1
+
+*Project Started: 06/06/2018*
 
 *Written in javascript + made with love*
 * * *
