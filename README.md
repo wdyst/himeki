@@ -5,7 +5,7 @@ A discord "chat" bot that was created just because! She has light moderation fea
 
 Voting at https://himeki.kado.to/vote helps increase make Himeki more popular!
 
-### Bot Server Invites:
+### Bot Invites
 * * *
 > Administrator permissions: https://himeki.kado.to/inviteA
 
