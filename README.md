@@ -1,5 +1,7 @@
 # Himeki･⁺｡･*✧
-Everyone's favorite discord bot!
+Everyone's favorite discord bot! 
+
+![alt text](https://i.imgur.com/U2ueJ3Y.jpg "Cute right?")
 # About
 Initally made just to have some cute gif and action commands, Himeki turned into a little passion project done for fun. 
 
@@ -45,5 +47,7 @@ Configurable permissions: https://himeki.kado.to/inviteB
  # **Support Server Invite**
 
 https://himeki.kado.to/support
+
+Current Version: v.1.6
 
 _Written in javascript + made with love_
