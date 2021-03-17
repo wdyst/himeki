@@ -5,6 +5,22 @@ A discord "chat" bot that was created just because! She has light moderation fea
 
 *Project Started: 06/06/2018*
 * * *
+### Bot Invite
+* * *
+Administrator permissions: https://himeki.kado.to/inviteA
+
+Configurable permissions: https://himeki.kado.to/inviteB
+
+### Voting
+* * *
+Voting at https://himeki.kado.to/vote helps increase Himeki's popularity and rankings!
+
+### Contact
+* * *
+You can either fill out an [issue report here](https://github.com/kadoto/himeki/issues) for feature requests, bug reports or other stuff
+
+or you can contact the dev on [discord here](https://discord.com/users/251479856406069248)
+* * *
 ## **Command List -**
 
 **FUN**
@@ -39,24 +55,6 @@ A discord "chat" bot that was created just because! She has light moderation fea
 
 `add`, `sub`, `mul`, `div`
 
-## **Other Stuff -**
-
-### Bot Invite
-* * *
-Administrator permissions: https://himeki.kado.to/inviteA
-
-Configurable permissions: https://himeki.kado.to/inviteB
-
-### Voting
-* * *
-Voting at https://himeki.kado.to/vote helps increase Himeki's popularity and rankings!
-
-### Problem?
-* * *
-You can either fill out an [issue report here](https://github.com/kadoto/himeki/issues) for feature requests, bug reports or other stuff
-
-or you can contact the dev on [discord here](https://discord.com/users/251479856406069248)
-* * *
 Current Version: v1.6.1
 
 *Written in javascript + made with love*
