@@ -1,15 +1,15 @@
 # **Himeki･⁺｡･✧**
 
  <img align="right" width="150" height="240" src="https://i.imgur.com/U2ueJ3Y.jpg">
-A discord "chat" bot that was created just because! She has light moderation features, lots of cute Re:ACTION commands, random utility features and a whole lot of love and personality!
+A discord "chat" bot that was created just because! She has light moderation features, lots of cute Re:ACTION commands, random utility features and a whole lot of love and personality! Voting at https://himeki.kado.to/vote helps increase make Himeki more popular!
+
+Bot Server Invites:
+
+> Administrator permissions: https://himeki.kado.to/inviteA
+
+> Configurable permissions: https://himeki.kado.to/inviteB
 
 *Project Started: 06/06/2018*
-
-### Server Invite
-* * *
-Administrator permissions: https://himeki.kado.to/inviteA
-
-Configurable permissions: https://himeki.kado.to/inviteB
 
 ### Contact
 * * *
@@ -17,9 +17,6 @@ You can either fill out an [issue report here](https://github.com/kadoto/himeki/
 
 or you can contact the dev on [discord here](https://discord.com/users/251479856406069248)
 
- ### Voting
-* * *
-Voting at https://himeki.kado.to/vote helps increase Himeki's popularity and rankings!
 
 ## **Command List -**
 
