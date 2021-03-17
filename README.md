@@ -1,7 +1,9 @@
 # Himeki･⁺｡･*✧
 
 Everyone's favorite discord bot!
-<img src="https://i.imgur.com/U2ueJ3Y.jpg" title="Cute right?" class="jop-noMdConv" width="131" height="204" style="float: right;">
+<p align="center">
+  <img width="130" height="200" src="https://i.imgur.com/U2ueJ3Y.jpg">
+</p>
 
 # About
 
