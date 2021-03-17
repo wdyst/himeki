@@ -1,7 +1,9 @@
 # Himeki･⁺｡･*✧
 Everyone's favorite discord bot!
 # About
-Initally made just to have some cute gif and action commands, Himeki turned into a little passion project done for fun. _Project Started: 06/06/2018_
+Initally made just to have some cute gif and action commands, Himeki turned into a little passion project done for fun. 
+
+_Project Started: 06/06/2018_
 # Command List
 **FUN**
 
@@ -44,4 +46,4 @@ Configurable permissions: https://himeki.kado.to/inviteB
 
 https://himeki.kado.to/support
 
-Written in javascript + made with love
+_Written in javascript + made with love_
